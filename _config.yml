@@ -1,16 +1,16 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
-email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+title:              "다케터의 영감노트"
+tagline:            "많이 보고 기록하는 마케터의 영감노트"
+email:              "dayoungg@kakao.com"
+description:        "좋은 마케터로 성장하기 위해 보고 듣는 모든 것들을 기록하는 블로그"
+author:             "윤다영"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://mmanbogi.com"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/daketer_thumbnail.png"
 
 # Social Profiles
 twitter_username:   twitter_username
-instagram_username: instagram_username
+instagram_username: mmanbogi
 facebook_username:  facebook_username
 linkedin_username:  linkedin_username
 
