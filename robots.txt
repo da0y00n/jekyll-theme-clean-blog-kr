@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mmanbogi.com/sitemap.xml
+#DaumWebMasterTool:52d4bfce5ee6dec3a3378d430b35a83f10e29dd8dde613a73ac5f7537836b2f5:SBDn+3M1gAUD2c6N/ci3rg==
