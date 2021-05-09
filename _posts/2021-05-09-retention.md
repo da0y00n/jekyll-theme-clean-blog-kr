@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /third/
+permalink: /retention/
 title: '리텐션 ‘사람의 뇌’부터 파헤치기'
 date: 2021-05-09 19:00:00 +09:00
 feature: '/img/posts/third/third_thumbnail.png'
