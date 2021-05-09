@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /first/
+permalink: /thinknote/
 title: '다케터의 영감노트를 시작하며'
 date: 2021-04-18 10:35:00 +09:00
 feature: '/img/posts/first/daketer_thumbnail.png'
