@@ -2,7 +2,7 @@
 layout: post
 permalink: /microcopy/
 title: '사례로 보는 마이크로카피 원칙(1) 보이스 앤 톤'
-date: 2021-06-21 02:58:00 +09:00
+date: 2021-06-21 03:04:00 +09:00
 feature: '/img/posts/fifth/thumbnail.png'
 categories:
   - knowledge
@@ -36,13 +36,13 @@ description: '더 나은 마이크로카피를 위한 몇 가지 원칙'
 **1.소리 내어 말하지 않는 것은 글로도 쓰지 마라**
 
 서비스 지향적이며 진정석 있는 대화의 경험을 제공하기 위해서는 격식을 차림 딱딱한 문구를 가능한 사용하지 말아야 한다.
-![sum](/img/posts/fifth/1.jpeg)
+![sum](/img/posts/fifth/001.png)
 [출처]망고플레이트
 
 **2.수동태보다는 능동태를 사용하라**
 
 구어체 문장의 능동태는 대화 중인 상대에게 초점을 맞추기때문에 더 좋은 표현이다.
-![sum](/img/posts/fifth/2.jpeg)
+![sum](/img/posts/fifth/002.png)
 
 [출처]blimp
 
@@ -57,14 +57,14 @@ description: '더 나은 마이크로카피를 위한 몇 가지 원칙'
 
 사용자에게 해당 제품, 서비스를 사용하면 무엇을 얻을 수 있는지, 어떤 문제가 해결되는지, 삶이 어떻게 좋아질지를 분명히 알려줘야 한다.
 이때, 문장의 주체를 사용자로 설정한다.
-![sum](/img/posts/fifth/3.png)
+![sum](/img/posts/fifth/003.png)
 [출처]웨이브
 
 **2.즐겁게,들뜨게 하라.**
 
 유머는 사람으로 하여금 자신에 대해 더 긍정적으로 느끼게 하고, 인터페이스를 더 좋아하게 만든다.
 
-![sum](/img/posts/fifth/4.png)
+![sum](/img/posts/fifth/004.png)
 [출처]마이루틴
 
 **3.고객을 존중하라 : 행동 권유**
@@ -73,6 +73,7 @@ CTA 전략을 세울 때는 행동에 따르는 이득에 대해 설명한 다�
 즐거운 기억을 연속으로 제공해 장기적인 관계를 형성하는 것이 필요하다.
 
 ![sum](/img/posts/fifth/5.png)
+
 [출처]오늘회
 
 **4.사회적 증거 : 모든 사람이 다리에서 뛰어내린다면?**
@@ -81,5 +82,6 @@ CTA 전략을 세울 때는 행동에 따르는 이득에 대해 설명한 다�
 - 평점
 - 소셜 미디어
 
-![sum](/img/posts/fifth/6.jpeg)
+![sum](/img/posts/fifth/005.png)
+
 [출처]토스
