@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: /microcopy/
-title: '사례로 보는 마이크로카피 원칙(1) 보이스 앤 톤 '
-date: 2021-06-21 02:53:00 +09:00
+title: '사례로 보는 마이크로카피 원칙(1) 보이스 앤 톤'
+date: 2021-06-21 02:55:00 +09:00
 feature: '/img/posts/fifth/thumbnail.png'
 categories:
   - knowledge
@@ -13,7 +13,7 @@ tags:
   - 서비스기획
   - microcopy
 
-description: '더 나은 마이크로카피를 위한 몇 가지 원칙 '
+description: '더 나은 마이크로카피를 위한 몇 가지 원칙'
 ---
 
 **마이크로카피의 정의와 역할**
