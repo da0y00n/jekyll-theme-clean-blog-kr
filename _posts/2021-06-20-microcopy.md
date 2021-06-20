@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: /microcopy/
-title: '사례로 보는 마이크로카피 원칙(1) - 보이스 앤 '
-date: 2021-06-21 02:30:00 +09:00
+title: '사례로 보는 마이크로카피 원칙(1) - 보이스 앤 톤 '
+date: 2021-06-21 02:44:00 +09:00
 feature: '/img/posts/fifth/thumbnail.png'
 categories:
   - knowledge
