@@ -2,8 +2,8 @@
 layout: post
 permalink: /growthmarketing/
 title: '필수적으로 알아야 할 그로스마케팅 용어집'
-date: 2021-08-15 23:47:00 +09:00
-feature: '/img/posts/seventh/thumbnail.png'
+date: 2021-08-15 23:50:00 +09:00
+feature: '/img/posts/eighth/thumbnail.png'
 categories:
   - knowledge
 tags:
