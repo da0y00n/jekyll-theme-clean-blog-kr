@@ -2,7 +2,7 @@
 layout: post
 permalink: /performance1/
 title: '퍼포먼스 마케터로 한 달 살기 -intro'
-date: 2021-03-13 23:36:00 +09:00
+date: 2022-03-13 23:43:00 +09:00
 feature: '/img/posts/eleventh/thumbnail.png'
 categories:
   - knowledge
