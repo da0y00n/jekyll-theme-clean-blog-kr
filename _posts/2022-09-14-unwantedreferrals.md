@@ -5,7 +5,7 @@ title: 'GA 광고 성과로 PG사 도메인이 잡힌다면?  '
 date: 2022-09-14 23:58:00 +09:00
 feature: '/img/posts/220914/thumbnail.png'
 categories:
-  - inspiration
+  - knowledge
 tags:
   - 디지털마케팅
   - 구글애널리틱스4
